@@ -1,0 +1,6 @@
+﻿Generated model file: EventDB.edmx.
+Loading metadata from the database took 00:00:02.2872518.
+Generating the model took 00:00:04.4989110.
+Generated model file: EventDB.edmx.
+Loading metadata from the database took 00:00:01.9191250.
+Generating the model took 00:00:03.9671597.
